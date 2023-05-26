@@ -15,12 +15,12 @@
 ## B5: View Results
 
 
-Note: SharpRatio folder include: 
+Note: SharpRatio folder includes: 
 
      + File code: index.py
 
      + File User manual: README.md
 
      + File excel: Book1123.xlsx
-     
+
      + Video User manual
