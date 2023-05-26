@@ -16,7 +16,11 @@
 
 
 Note: SharpRatio folder include: 
+
      + File code: index.py
+
      + File User manual: README.md
+
      + File excel: Book1123.xlsx
+     
      + Video User manual
